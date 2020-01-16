@@ -1,0 +1,19 @@
+0. Intro - Who am I?
+
+1. What is a function?
+ - Reusable block of code that performs a specific task
+
+2. Why are functions important?
+ - Reusability 
+ - Abstraction
+
+3. Basic Function Structure
+ - Name
+ - Parameters/Arguments
+ - Return Values
+ - Code
+
+4. Parameters/Arguments
+ - Controls the function without knowing the inner working details
+
+5. Return Values
